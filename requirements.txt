@@ -1,7 +1,7 @@
 streamlit
 opencv-python-headless
-numpy
+numpy==1.26.4
 pandas
-keras
+keras==2.15.0
 h5py
-tensorflow
+tensorflow==2.15.0
