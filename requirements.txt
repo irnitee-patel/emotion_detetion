@@ -1,4 +1,9 @@
+tensorflow==2.16.1
+numpy==1.26.4
+scipy==1.13.1
+opencv-python
 streamlit
-opencv-python-headless
-numpy
 pandas
+matplotlib
+scikit-learn
+pillow
